@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xF4CE6857Ff515824b214bCf139A4BA27eB948E65",
+  "SCAN_LINK": "https://polygonscan.com/address/0xf4ce6857ff515824b214bcf139a4ba27eb948e65",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Fraternities and Sororities",
+  "SYMBOL": "GLOs",
+  "MAX_SUPPLY": 10000,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST": 40,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/glos",
+  "SHOW_BACKGROUND": true
+}
